@@ -33,3 +33,6 @@
   font-display: optional; /* for performances */
 }
 
+
+# Importare font con il preload
+<link rel="preload" href="/fonts/awesome-l.woff2" as="font" />
